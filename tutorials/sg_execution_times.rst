@@ -1,0 +1,127 @@
+
+:orphan:
+
+.. _sphx_glr_tutorials_sg_execution_times:
+
+
+Computation times
+=================
+**06:18.907** total execution time for 31 files **from tutorials**:
+
+.. container::
+
+  .. raw:: html
+
+    <style scoped>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet" />
+    </style>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script type="text/javascript" class="init">
+    $(document).ready( function () {
+        $('table.sg-datatable').DataTable({order: [[1, 'desc']]});
+    } );
+    </script>
+
+  .. list-table::
+   :header-rows: 1
+   :class: table table-striped sg-datatable
+
+   * - Example
+     - Time
+     - Mem (MB)
+   * - :ref:`sphx_glr_tutorials_coding_dqn.py` (``coding_dqn.py``)
+     - 01:29.091
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_mujoco_cube_bowl_macros.py` (``mujoco_cube_bowl_macros.py``)
+     - 00:58.332
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_multiagent_ppo.py` (``multiagent_ppo.py``)
+     - 00:31.647
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_coding_ddpg.py` (``coding_ddpg.py``)
+     - 00:29.686
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_torchrl_envs.py` (``torchrl_envs.py``)
+     - 00:28.476
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_multiagent_competitive_ddpg.py` (``multiagent_competitive_ddpg.py``)
+     - 00:27.722
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_coding_ppo.py` (``coding_ppo.py``)
+     - 00:25.510
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_export.py` (``export.py``)
+     - 00:25.175
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_pretrained_models.py` (``pretrained_models.py``)
+     - 00:11.859
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_microduck.py` (``microduck.py``)
+     - 00:08.004
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_llm_wrappers.py` (``llm_wrappers.py``)
+     - 00:07.561
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_evaluator.py` (``evaluator.py``)
+     - 00:06.508
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_dqn_with_rnn.py` (``dqn_with_rnn.py``)
+     - 00:05.852
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_getting-started-5.py` (``getting-started-5.py``)
+     - 00:05.496
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_torchrl_demo.py` (``torchrl_demo.py``)
+     - 00:05.232
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_multi_task.py` (``multi_task.py``)
+     - 00:04.485
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_pendulum.py` (``pendulum.py``)
+     - 00:04.449
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_low_level_controller.py` (``low_level_controller.py``)
+     - 00:01.332
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_rb_tutorial.py` (``rb_tutorial.py``)
+     - 00:00.943
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_vla.py` (``vla.py``)
+     - 00:00.493
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_collector_trajectory_assembly.py` (``collector_trajectory_assembly.py``)
+     - 00:00.342
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_memory_efficient_rl.py` (``memory_efficient_rl.py``)
+     - 00:00.235
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_recurrent_sequence_training.py` (``recurrent_sequence_training.py``)
+     - 00:00.151
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_getting-started-3.py` (``getting-started-3.py``)
+     - 00:00.075
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_getting-started-4.py` (``getting-started-4.py``)
+     - 00:00.071
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_getting-started-1.py` (``getting-started-1.py``)
+     - 00:00.053
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_getting-started-2.py` (``getting-started-2.py``)
+     - 00:00.049
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_checkpointing.py` (``checkpointing.py``)
+     - 00:00.023
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_getting-started-0.py` (``getting-started-0.py``)
+     - 00:00.022
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_trl_interop.py` (``trl_interop.py``)
+     - 00:00.017
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_rlrender.py` (``rlrender.py``)
+     - 00:00.015
+     - 0.0
